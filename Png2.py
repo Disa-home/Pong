@@ -1,7 +1,9 @@
 '''
 Created on Jan 21, 2023
 
-@author: salnr
+Updated on Nov 04, 2023
+
+@authors: salnr, eddiesalvador
 '''
 
 import turtle
